@@ -10,9 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i<10;i++)
+            for (int i = 1; i<=10;i++)
             {
-                Console.WriteLine(i.ToString());
+                Console.WriteLine(i.ToString() + "..");
             }
         }
     }
