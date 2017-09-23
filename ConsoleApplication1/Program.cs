@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             for (int i = 1; i<=10;i++)
             {
                 Console.WriteLine(i.ToString() + ".." + "....aabbbcccddd");
+                args;
+
             }
         }
     }
