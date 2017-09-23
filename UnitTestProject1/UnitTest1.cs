@@ -18,5 +18,12 @@ namespace UnitTestProject1
             Assert.IsTrue(1 < 3);
         }
 
+        [TestMethod]
+        public void FailingTest()
+        {
+            Assert.IsTrue(1 > );
+        }
+
+
     }
 }
